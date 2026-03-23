@@ -446,9 +446,9 @@ python run_unified.py 2.5 -v
 
 # 🐕 使用效果
 
-![3.0](image\3.0.png)
+![3.0](image/3.0.png)
 
 ![2.5](image/2.5.png)
 
-![1.5](image\1.5.png)
+![1.5](image/1.5.png)
 
